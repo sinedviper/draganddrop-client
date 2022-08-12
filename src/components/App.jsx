@@ -19,7 +19,7 @@ function App() {
 
   const Main = styled.main`
     width: 410px;
-    margin: 100px auto;
+    margin: 40px auto 0;
     border-radius: 5px;
     padding: 15px 15px 1px 15px;
   `;
