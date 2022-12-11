@@ -9,7 +9,7 @@
 
 - react
 - react-dom
-- "react-beautiful-dnd
+- react-beautiful-dnd
 - @redux/toolkit
 - styled-component
 
